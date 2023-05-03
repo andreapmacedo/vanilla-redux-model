@@ -1,1 +1,1 @@
-# react-redux-model
+# vanilla-redux-model
